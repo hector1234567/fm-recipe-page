@@ -166,7 +166,7 @@ br {
   margin-bottom: 7px;
 }
 
-@media screen and (max-width: 1440px) {
+@media screen and (max-width: 736px) {
   .recipe {
     width: 616px;
   }
