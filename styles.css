@@ -155,7 +155,8 @@ br {
   display: inline-block;
 }
 
-.recipe__ingredients {
+.recipe__ingredients,
+.recipe__nutrition {
   color: var(--Stone-600);
 }
 
