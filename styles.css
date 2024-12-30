@@ -165,3 +165,26 @@ br {
 .recipe__nutrition p {
   margin-bottom: 7px;
 }
+
+@media screen and (max-width: 1440px) {
+  .recipe {
+    width: 616px;
+  }
+}
+
+@media screen and (max-width: 616px) {
+  .recipe {
+    width: 100vw;
+    margin: 0;
+    border-radius: 0;
+    padding: 0;
+  }
+
+  .recipe__image {
+    border-radius: 0;
+  }
+
+  .recipe__container {
+    margin: 40px 32px;
+  }
+}
