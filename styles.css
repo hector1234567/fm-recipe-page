@@ -59,15 +59,6 @@ h2 {
   margin-bottom: 24px;
 }
 
-h3 {
-  font-size: 20px;
-  font-family: Outfit;
-  font-weight: 700;
-  line-height: 100%;
-  color: var(--Rose-800);
-  margin-bottom: 16px;
-}
-
 ul {
   padding-left: 19px;
 }
@@ -152,6 +143,16 @@ br {
   color: var(--Stone-600);
   padding: 24px;
   border-radius: 12px;
+}
+
+.recipe__preparation-title {
+  font-size: 20px;
+  font-family: Outfit;
+  font-weight: 700;
+  line-height: 100%;
+  color: var(--Rose-800);
+  margin-bottom: 16px;
+  display: inline-block;
 }
 
 .recipe__ingredients {
