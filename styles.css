@@ -94,7 +94,7 @@ br {
 
 .row {
   display: flex;
-  padding: 17px 34px;
+  padding: 12px 34px;
 }
 
 .row:not(:last-child) {
@@ -164,7 +164,7 @@ br {
 }
 
 .recipe__nutrition p {
-  margin-bottom: 7px;
+  margin-bottom: 10px;
 }
 
 @media screen and (max-width: 736px) {
